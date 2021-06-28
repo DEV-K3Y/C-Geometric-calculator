@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(16,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(18,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(1043,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(1060,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(1060,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(1062,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\MyForm.h(1062,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KursaDarbs.vcxproj -> C:\Users\jazzl\Desktop\C++\KursaDarbs\Debug\KursaDarbs.exe

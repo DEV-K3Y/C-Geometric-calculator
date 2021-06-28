@@ -1,0 +1,3 @@
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\Debug\KursaDarbs.MyForm.resources
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\Debug\KursaDarbs.vcxproj.GenerateResource.cache
+C:\Users\jazzl\Desktop\C++\KursaDarbs\KursaDarbs\Debug\KursaDarbs.vcxprojAssemblyReference.cache
